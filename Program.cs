@@ -16,6 +16,8 @@ namespace GitTest
 		{
 			Console.WriteLine("Hello World!");
 			Console.WriteLine("Woop");
+			Console.WriteLine("Branch Tester");
+			Console.WriteLine("Test Branch");
 			
 			// TODO: Implement Functionality Here
 			
