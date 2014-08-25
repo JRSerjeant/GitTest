@@ -1,0 +1,6 @@
+C:\Users\Jack\Documents\SharpDevelop Projects\GitTest\GitTest\bin\Debug\GitTest.exe.config
+C:\Users\Jack\Documents\SharpDevelop Projects\GitTest\GitTest\bin\Debug\GitTest.exe
+C:\Users\Jack\Documents\SharpDevelop Projects\GitTest\GitTest\bin\Debug\GitTest.pdb
+C:\Users\Jack\Documents\SharpDevelop Projects\GitTest\GitTest\obj\Debug\GitTest.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\SharpDevelop Projects\GitTest\GitTest\obj\Debug\GitTest.exe
+C:\Users\Jack\Documents\SharpDevelop Projects\GitTest\GitTest\obj\Debug\GitTest.pdb

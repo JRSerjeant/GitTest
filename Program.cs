@@ -15,6 +15,7 @@ namespace GitTest
 		public static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World!");
+			Console.WriteLine("Woop");
 			
 			// TODO: Implement Functionality Here
 			
